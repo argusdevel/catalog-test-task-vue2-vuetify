@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "title": "Converse Kids 70",
+    "term": "converse",
+    "imgUrl": "/images/converse_kids_70_w.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 2,
+    "title": "Converse Kids 70",
+    "term": "sneakers",
+    "imgUrl": "/images/converse_kids_70_o.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 3,
+    "title": "Converse Chuck 70 Renew High Top",
+    "term": "top-siders",
+    "imgUrl": "/images/converse_chuck_70_renew_high_top.jpg",
+    "price": 84.99,
+    "sale": 40,
+    "salePrice": 50.99
+  },
+  {
+    "id": 4,
+    "title": "Converse Pro Chuck 80",
+    "term": "basketball",
+    "imgUrl": "/images/converse_pro_chuck_80.jpg",
+    "price": 99.99,
+    "sale": 35,
+    "salePrice": 64.99
+  },
+  {
+    "id": 5,
+    "title": "Converse Winter Chuck 70",
+    "term": "converse",
+    "imgUrl": "/images/converse_winter_chuck_70.jpg",
+    "price": 99.99,
+    "sale": 20,
+    "salePrice": 79.99
+  },
+  {
+    "id": 6,
+    "title": "Converse Winter Chuck 70 Full Black",
+    "term": "sneakers",
+    "imgUrl": "/images/converse_winter_chuck_70_full_black.jpg",
+    "price": 129.99,
+    "sale": 0,
+    "salePrice": 129.99
+  },
+  {
+    "id": 7,
+    "title": "Converse Winter Chuck 70 Black/White",
+    "term": "top-siders",
+    "imgUrl": "/images/converse_winter_chuck_70_blackWhite.jpg",
+    "price": 99.99,
+    "sale": 0,
+    "salePrice": 99.99
+  },
+  {
+    "id": 8,
+    "title": "Converse Kids 70",
+    "term": "basketball",
+    "imgUrl": "/images/converse_kids_70_w.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 9,
+    "title": "Converse Kids 70",
+    "term": "converse",
+    "imgUrl": "/images/converse_kids_70_o.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 10,
+    "title": "Converse Chuck 70 Renew High Top",
+    "term": "sneakers",
+    "imgUrl": "/images/converse_chuck_70_renew_high_top.jpg",
+    "price": 84.99,
+    "sale": 40,
+    "salePrice": 50.99
+  },
+  {
+    "id": 11,
+    "title": "Converse Pro Chuck 80",
+    "term": "top-siders",
+    "imgUrl": "/images/converse_pro_chuck_80.jpg",
+    "price": 99.99,
+    "sale": 35,
+    "salePrice": 64.99
+  },
+  {
+    "id": 12,
+    "title": "Converse Winter Chuck 70",
+    "term": "basketball",
+    "imgUrl": "/images/converse_winter_chuck_70.jpg",
+    "price": 99.99,
+    "sale": 20,
+    "salePrice": 79.99
+  },
+  {
+    "id": 13,
+    "title": "Converse Winter Chuck 70 Full Black",
+    "term": "converse",
+    "imgUrl": "/images/converse_winter_chuck_70_full_black.jpg",
+    "price": 129.99,
+    "sale": 0,
+    "salePrice": 129.99
+  },
+  {
+    "id": 14,
+    "title": "Converse Winter Chuck 70 Black/White",
+    "term": "sneakers",
+    "imgUrl": "/images/converse_winter_chuck_70_blackWhite.jpg",
+    "price": 99.99,
+    "sale": 0,
+    "salePrice": 99.99
+  },
+  {
+    "id": 15,
+    "title": "Converse Kids 70",
+    "term": "top-siders",
+    "imgUrl": "/images/converse_kids_70_w.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 16,
+    "title": "Converse Kids 70",
+    "term": "basketball",
+    "imgUrl": "/images/converse_kids_70_o.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 17,
+    "title": "Converse Chuck 70 Renew High Top",
+    "term": "converse",
+    "imgUrl": "/images/converse_chuck_70_renew_high_top.jpg",
+    "price": 84.99,
+    "sale": 40,
+    "salePrice": 50.99
+  },
+  {
+    "id": 18,
+    "title": "Converse Pro Chuck 80",
+    "term": "sneakers",
+    "imgUrl": "/images/converse_pro_chuck_80.jpg",
+    "price": 99.99,
+    "sale": 35,
+    "salePrice": 64.99
+  },
+  {
+    "id": 19,
+    "title": "Converse Winter Chuck 70",
+    "term": "top-siders",
+    "imgUrl": "/images/converse_winter_chuck_70.jpg",
+    "price": 99.99,
+    "sale": 20,
+    "salePrice": 79.99
+  },
+  {
+    "id": 20,
+    "title": "Converse Winter Chuck 70 Full Black",
+    "term": "basketball",
+    "imgUrl": "/images/converse_winter_chuck_70_full_black.jpg",
+    "price": 129.99,
+    "sale": 0,
+    "salePrice": 129.99
+  },
+  {
+    "id": 21,
+    "title": "Converse Winter Chuck 70 Black/White",
+    "term": "converse",
+    "imgUrl": "/images/converse_winter_chuck_70_blackWhite.jpg",
+    "price": 99.99,
+    "sale": 0,
+    "salePrice": 99.99
+  },
+  {
+    "id": 22,
+    "title": "Converse Kids 70",
+    "term": "sneakers",
+    "imgUrl": "/images/converse_kids_70_w.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 23,
+    "title": "Converse Kids 70",
+    "term": "top-siders",
+    "imgUrl": "/images/converse_kids_70_o.jpg",
+    "price": 49.99,
+    "sale": 0,
+    "salePrice": 49.99
+  },
+  {
+    "id": 24,
+    "title": "Converse Chuck 70 Renew High Top",
+    "term": "basketball",
+    "imgUrl": "/images/converse_chuck_70_renew_high_top.jpg",
+    "price": 84.99,
+    "sale": 40,
+    "salePrice": 50.99
+  },
+  {
+    "id": 25,
+    "title": "Converse Pro Chuck 80",
+    "term": "converse",
+    "imgUrl": "/images/converse_pro_chuck_80.jpg",
+    "price": 99.99,
+    "sale": 35,
+    "salePrice": 64.99
+  },
+  {
+    "id": 26,
+    "title": "Converse Winter Chuck 70",
+    "term": "sneakers",
+    "imgUrl": "/images/converse_winter_chuck_70.jpg",
+    "price": 99.99,
+    "sale": 20,
+    "salePrice": 79.99
+  },
+  {
+    "id": 27,
+    "title": "Converse Winter Chuck 70 Full Black",
+    "term": "top-siders",
+    "imgUrl": "/images/converse_winter_chuck_70_full_black.jpg",
+    "price": 129.99,
+    "sale": 0,
+    "salePrice": 129.99
+  },
+  {
+    "id": 28,
+    "title": "Converse Winter Chuck 70 Black/White",
+    "term": "basketball",
+    "imgUrl": "/images/converse_winter_chuck_70_blackWhite.jpg",
+    "price": 99.99,
+    "sale": 0,
+    "salePrice": 99.99
+  }
+]

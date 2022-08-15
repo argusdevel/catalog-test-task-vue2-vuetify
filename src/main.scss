@@ -1,0 +1,58 @@
+#app {
+  background-color: #FFFFFF;
+}
+
+body{
+  &::-webkit-scrollbar {
+    background-color: #F5F5F5;
+    width: 5px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: #F5F5F5;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #1B1B1B;
+    border: 2px solid #1B1B1B;
+  }
+
+  &::-webkit-scrollbar-button {
+    display: none;
+  }
+}
+
+.v-application {
+  [class*="text-"] {
+    color: #36405a;
+    font-family: 'Inter', sans-serif !important;
+  }
+  font-family: 'Inter', sans-serif !important;
+}
+
+.v-main__wrap{
+  background-color: #FFFFFF!important;
+  padding-top: 35px;
+
+  .cust-row{
+    padding: 0 100px;
+  }
+}
+
+.v-menu__content {
+  border-radius: 0!important;
+  box-shadow: none!important;
+
+  .v-list{
+    background: #F5F5F5!important;
+
+    .v-list-item{
+      background: #F5F5F5;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 22px;
+      color: #000000;
+    }
+  }
+}
