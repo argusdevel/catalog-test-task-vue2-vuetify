@@ -36,6 +36,10 @@ body{
 
   .cust-row{
     padding: 0 100px;
+    
+    @media (max-width: 768px) {
+      padding: 0 30px;
+    }
   }
 }
 

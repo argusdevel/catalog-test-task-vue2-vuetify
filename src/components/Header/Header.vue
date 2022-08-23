@@ -14,7 +14,7 @@
             </router-link>
 
             <span class="basket-trigger-wrap" @click="openBasket">
-                Basket({{ $store.state.basket.length }})
+                Basket({{ $store.state.basket.products.length }})
             </span>
         </div>
     </div>

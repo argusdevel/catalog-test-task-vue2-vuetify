@@ -2,10 +2,10 @@
     <v-app id="inspire" class="catalog-wrap">
         <v-main>
             <v-row>
-                <v-col cols="12">
+                <v-col cols="12" xs="10">
                     <v-row class="cust-row" no-gutters>
                         <v-col>
-                            <Header @openBasket="openDialog"></Header>
+                            <Header @openBasket="dialog = true"></Header>
                         </v-col>
                     </v-row>
 
@@ -37,11 +37,11 @@
                     </router-link>
 
                     <span class="ml-11">
-                        Basket({{ $store.state.basket.length }})
+                        Basket({{ $store.state.basket.products.length }})
                     </span>
                 </div>
 
-                <template v-if="$store.state.basket.length > 0">
+                <template v-if="$store.state.basket.products.length > 0">
 
                     <div class="price-wrap">
                         <div class="price-row title">
@@ -50,12 +50,12 @@
 
                         <div class="price-row">
                             <span>Subtotal:</span>
-                            <span>${{ subtotal.toFixed(2) }}</span>
+                            <span>${{ $store.state.basket.subtotal }}</span>
                         </div>
 
                         <div class="price-row">
                             <span>Sale:</span>
-                            <span>${{ (subtotal.toFixed(2) - total.toFixed(2)).toFixed(2) }}</span>
+                            <span>${{ ($store.state.basket.subtotal - $store.state.basket.total).toFixed(2) }}</span>
                         </div>
 
                         <div class="price-row">
@@ -66,14 +66,14 @@
 
                     <div class="total-wrap">
                         <span>Order total:</span>
-                        <span>${{ total.toFixed(2) }}</span>
+                        <span>${{ $store.state.basket.total }}</span>
                     </div>
 
                     <div class="items-wrap">
                         <div
-                            v-if="$store.state.basket.length > 0"
+                            v-if="$store.state.basket.products.length > 0"
                             class="item-wrap"
-                            v-for="item in $store.state.basket"
+                            v-for="item in $store.state.basket.products"
                             :key="item.id"
                         >
                             <img :src="item.imgUrl" alt="" width="100" height="100">

@@ -1,6 +1,7 @@
 .header-wrap{
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   border-bottom: 1px solid #BDBDBD;
   padding-bottom: 36px;
 
@@ -23,6 +24,16 @@
       line-height: 29px;
       text-transform: uppercase;
       margin-right: 247px;
+
+      @media (max-width: 375px) {
+        margin-right: 200px;
+        margin-bottom: 20px;
+      }
+
+      @media (max-width: 320px) {
+        margin-right: 150px;
+        margin-bottom: 20px;
+      }
     }
 
     &.basket-trigger-wrap{

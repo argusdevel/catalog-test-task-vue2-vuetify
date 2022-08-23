@@ -57,7 +57,11 @@ export default new Vuex.Store({
 
    loading: true,
 
-   basket: [],
+   basket: {
+       products: [],
+       total: 0.0,
+       subtotal: 0.0
+   },
    products: [],
    sortedProducts: []
   },

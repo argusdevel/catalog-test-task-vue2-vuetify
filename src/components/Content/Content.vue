@@ -25,7 +25,7 @@
             <div
                 v-if="$store.state.sortedProducts.length > 0"
                 class="item-wrap"
-                v-for="item in  $store.state.sortedProducts"
+                v-for="item in $store.state.sortedProducts"
                 :key="item.id"
             >
                 <img :src="item.imgUrl" alt="">
@@ -44,7 +44,7 @@
                     </span>
                 </div>
 
-                <template v-if="$store.state.basket.length > 0 && $store.state.basket.find((product) => product.id === item.id)">
+                <template v-if="$store.state.basket.products.length > 0 && $store.state.basket.products.find((product) => product.id === item.id)">
                     <v-btn @click="itemClicked(item)" class="added" outlined>
                         <span>
                             Added
